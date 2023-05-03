@@ -7,3 +7,11 @@ Formola One Qualification is a simple console application for tracking and analy
 
 - View Formula 1 qualifying race results
 - Access to detailed information about teams and place in the final score
+
+## Technologies
+
+- Java 8
+- Junit5
+- Mokito
+
+In this project, I have implemented JUnit 5 and Mockito for unit testing. Additionally, the application utilizes Java streams for data parsing
